@@ -193,4 +193,3 @@ For any issues or improvements, feel free to reach out via the repository's issu
 
 ---
 
-This README should help you set up and understand how to use the coordinate detection script effectively. Happy coding, bro!

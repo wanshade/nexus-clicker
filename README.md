@@ -71,7 +71,6 @@ h = y2 - y1
 print(f"Calculated Coordinates: x = {x1}, y = {y1}, w = {w}, h = {h}")
 ```
 
-Below is an example README file in English that explains how to update your main script with the coordinates you obtained using your coordinate finder (cor.py):
 
 ---
 
